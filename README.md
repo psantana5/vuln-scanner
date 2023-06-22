@@ -28,7 +28,7 @@
     <li>Clone the repository:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your-username/vulnerability-scanner.git</code></pre>
+  <pre><code>git clone https://github.com/your-username/vuln-scanner.git</code></pre>
 
   <ol start="2">
     <li>Install the required dependencies:</li>
