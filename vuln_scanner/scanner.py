@@ -223,7 +223,7 @@ class VulnerabilityScanner:
             print("\nNo vulnerabilities found")
 
 
-# Example usage
+
 scanner = VulnerabilityScanner()
 scanner.scan()
 scanner.report_vulnerabilities()
