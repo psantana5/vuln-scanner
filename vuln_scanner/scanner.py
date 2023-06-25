@@ -1,4 +1,4 @@
-import requests
+asimport requests
 
 class VulnerabilityScanner:
     def __init__(self):
