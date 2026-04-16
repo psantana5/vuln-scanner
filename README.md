@@ -49,7 +49,7 @@
   <h2>Usage</h2>
 
   <ol>
-    <li>Run the scanner by executing the <code>scanner.py</code> script.</li>
+    <li>Run the scanner by executing the <code>main.py</code> script.</li>
     <li>Choose the vulnerability category you want to scan for from the provided menu.</li>
     <li>Select the specific vulnerability within the category or go back to the main menu.</li>
     <li>Enter the target URL for scanning when prompted.</li>
