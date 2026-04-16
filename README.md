@@ -28,7 +28,7 @@
     <li>Clone the repository:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your-username/vuln-scanner.git</code></pre>
+  <pre><code>git clone https://github.com/psantana5/vuln-scanner.git</code></pre>
 
   <ol start="2">
     <li>Install the required dependencies:</li>
@@ -40,7 +40,7 @@
     <li>Run the scanner:</li>
   </ol>
 
-  <pre><code>python scanner.py</code></pre>
+  <pre><code>python main.py</code></pre>
 
   <ol start="4">
     <li>Follow the on-screen prompts to select the vulnerabilities you want to scan for and provide the target URL.</li>
